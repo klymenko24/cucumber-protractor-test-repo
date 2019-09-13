@@ -1,0 +1,6 @@
+// Given('Enter user data', async function(){ 
+//     const name = userData.hashes();
+//     await customersInfoPage.addFirstName(name[0].First_Name)
+//     await customersInfoPage.addLastName(name[0].Last_Name)
+//     await customersInfoPage.addPostCode(name[0].Post_Code)
+// });
